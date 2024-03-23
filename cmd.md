@@ -21,3 +21,12 @@ cd ~/name_folder/
  ```sh
  ls
  ```
+ Удаление файла в Windows:
+ ```sh
+ del
+ ```
+
+ Linux и MacOs:
+ ```sh
+ rm
+ ```
